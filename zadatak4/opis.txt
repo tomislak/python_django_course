@@ -1,0 +1,4 @@
+Klase
+Iteratori
+Exceptioni
+Pickle
